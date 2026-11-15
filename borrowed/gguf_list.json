@@ -1,0 +1,42 @@
+{
+ "q35_9b": [
+  "unsloth/Qwen3.5-9B-GGUF",
+  "Qwen3.5-9B-Q8_0.gguf"
+ ],
+ "q35_9b_opus46": [
+  "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+  "Qwen3.5-9B.Q8_0.gguf"
+ ],
+ "q35_9b_opus47": [
+  "Jackrong/Negentropy-claude-opus-4.7-9B-GGUF",
+  "Negentropy-claude-opus-4.7-9B-Q8_0.gguf"
+ ],
+ "q35_9b_fable5": [
+  "TeichAI/Qwen3.5-9B-Fable-5-v1-GGUF",
+  "Qwen3.5-9B-Fable-5-Distill.q8_0.gguf"
+ ],
+ "q35_9b_gemini31": [
+  "Jackrong/Qwen3.5-9B-Gemini-3.1-Pro-Reasoning-Distill-GGUF",
+  "Qwen3.5-9B.Q8_0.gguf"
+ ],
+ "q35_9b_glm51": [
+  "Jackrong/Qwen3.5-9B-GLM5.1-Distill-v1-GGUF",
+  "Qwen3.5-9B-GLM5.1-Distill-v1-Q8_0.gguf"
+ ],
+ "q35_9b_dsv4pro": [
+  "mradermacher/DeepSeek-V4-Pro-Qwen3.5-9B-GGUF",
+  "DeepSeek-V4-Pro-Qwen3.5-9B.Q8_0.gguf"
+ ],
+ "q35_9b_kimik3": [
+  "mradermacher/Qwen3.5-9B-Kimi-k3-Distilled-GGUF",
+  "Qwen3.5-9B-Kimi-k3-Distilled.Q8_0.gguf"
+ ],
+ "q35_9b_qwen38": [
+  "empero-ai/Qwen3.8-9B-Distill-GGUF",
+  "Qwen3.8-9B-Q8_0.gguf"
+ ],
+ "q38_27b": [
+  "unsloth/Qwen3.8-27B-GGUF",
+  "Qwen3.8-27B-Q8_0.gguf"
+ ]
+}
