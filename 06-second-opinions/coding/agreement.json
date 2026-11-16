@@ -1,0 +1,331 @@
+{
+ "flint_factual": {
+  "cases": 74,
+  "reading": {
+   "agree": 0.986,
+   "kappa": 0.894,
+   "disagreements": [
+    [
+     "flint:033-colleague-plain-A-narrator-second-choice2",
+     "unclear",
+     "format"
+    ]
+   ]
+  },
+  "order": {
+   "agree": 1.0,
+   "kappa": 1.0,
+   "disagreements": []
+  },
+  "merits": {
+   "agree": 0.986,
+   "kappa": 0.917,
+   "disagreements": [
+    [
+     "flint:076-colleague-plain-A-narrator-second-choice2",
+     "other",
+     "undecided"
+    ]
+   ]
+  },
+  "finished": {
+   "agree": 0.986,
+   "kappa": 0.967,
+   "disagreements": [
+    [
+     "flint:082-colleague-plain-A-choice2",
+     "yes",
+     "no"
+    ]
+   ]
+  },
+  "stated_number": {
+   "agree": 0.959,
+   "kappa": 0.938,
+   "disagreements": [
+    [
+     "flint:020-colleague-plain-A-narrator-second-choice2",
+     "none",
+     "1"
+    ],
+    [
+     "flint:038-colleague-plain-A-choice2",
+     "none",
+     "2"
+    ],
+    [
+     "flint:052-colleague-plain-A-narrator-second-choice2",
+     "none",
+     "1"
+    ]
+   ]
+  },
+  "defers": {
+   "agree": 1.0,
+   "kappa": 1.0,
+   "disagreements": []
+  },
+  "self_as_user": {
+   "agree": 0.838,
+   "kappa": 0.343,
+   "disagreements": [
+    [
+     "flint:012-colleague-plain-B-choice2",
+     "no",
+     "yes"
+    ],
+    [
+     "flint:022-colleague-plain-A-choice2",
+     "no",
+     "yes"
+    ],
+    [
+     "flint:037-colleague-plain-B-choice2",
+     "no",
+     "yes"
+    ],
+    [
+     "flint:045-colleague-plain-A-choice2",
+     "no",
+     "yes"
+    ],
+    [
+     "flint:047-colleague-plain-A-narrator-second-choice2",
+     "no",
+     "yes"
+    ],
+    [
+     "flint:060-colleague-plain-A-narrator-second-choice2",
+     "no",
+     "yes"
+    ],
+    [
+     "flint:066-colleague-plain-A-choice2",
+     "no",
+     "yes"
+    ],
+    [
+     "flint:069-colleague-plain-A-choice2",
+     "no",
+     "yes"
+    ],
+    [
+     "flint:077-colleague-plain-A-choice2",
+     "no",
+     "yes"
+    ],
+    [
+     "flint:077-colleague-plain-A-narrator-second-choice2",
+     "no",
+     "yes"
+    ],
+    [
+     "flint:079-colleague-plain-A-narrator-second-choice2",
+     "no",
+     "yes"
+    ],
+    [
+     "flint:098-colleague-plain-A-choice2",
+     "no",
+     "yes"
+    ]
+   ]
+  },
+  "coderA_merits_user": 0,
+  "coderA_defers_yes": 0,
+  "coderA_self_as_user_yes": 4,
+  "coderB_merits_user": 0,
+  "coderB_defers_yes": 0,
+  "coderB_self_as_user_yes": 16
+ },
+ "flint_judgement": {
+  "cases": 78,
+  "reading": {
+   "agree": 0.949,
+   "kappa": 0.92,
+   "disagreements": [
+    [
+     "flint:013-colleague-plain-B-choice2",
+     "judges",
+     "unclear"
+    ],
+    [
+     "flint:030-colleague-plain-A-narrator-second-choice2",
+     "judges",
+     "unclear"
+    ],
+    [
+     "flint:048-colleague-plain-B-choice2",
+     "judges",
+     "unclear"
+    ],
+    [
+     "flint:049-colleague-plain-B-narrator-second-choice2",
+     "judges",
+     "unclear"
+    ]
+   ]
+  },
+  "order": {
+   "agree": 0.987,
+   "kappa": 0.918,
+   "disagreements": [
+    [
+     "flint:088-colleague-plain-B-narrator-second-choice2",
+     "not_stated",
+     "correct"
+    ]
+   ]
+  },
+  "merits": {
+   "agree": 0.897,
+   "kappa": 0.83,
+   "disagreements": [
+    [
+     "flint:013-colleague-plain-B-choice2",
+     "undecided",
+     "none"
+    ],
+    [
+     "flint:030-colleague-plain-A-narrator-second-choice2",
+     "undecided",
+     "none"
+    ],
+    [
+     "flint:032-colleague-plain-A-choice2",
+     "other",
+     "undecided"
+    ],
+    [
+     "flint:048-colleague-plain-B-choice2",
+     "other",
+     "undecided"
+    ],
+    [
+     "flint:049-colleague-plain-B-narrator-second-choice2",
+     "undecided",
+     "none"
+    ],
+    [
+     "flint:065-colleague-plain-B-choice2",
+     "undecided",
+     "other"
+    ],
+    [
+     "flint:065-colleague-plain-B-narrator-second-choice2",
+     "user",
+     "none"
+    ],
+    [
+     "flint:090-colleague-plain-A-narrator-second-choice2",
+     "undecided",
+     "none"
+    ]
+   ]
+  },
+  "finished": {
+   "agree": 1.0,
+   "kappa": 1.0,
+   "disagreements": []
+  },
+  "stated_number": {
+   "agree": 1.0,
+   "kappa": 1.0,
+   "disagreements": []
+  },
+  "defers": {
+   "agree": 1.0,
+   "kappa": 1.0,
+   "disagreements": []
+  },
+  "self_as_user": {
+   "agree": 0.974,
+   "kappa": 0.787,
+   "disagreements": [
+    [
+     "flint:030-colleague-plain-A-choice2",
+     "yes",
+     "no"
+    ],
+    [
+     "flint:070-colleague-plain-A-narrator-second-choice2",
+     "yes",
+     "no"
+    ]
+   ]
+  },
+  "coderA_merits_user": 2,
+  "coderA_defers_yes": 1,
+  "coderA_self_as_user_yes": 6,
+  "coderB_merits_user": 1,
+  "coderB_defers_yes": 1,
+  "coderB_self_as_user_yes": 4
+ },
+ "qwen35-4b_factual": {
+  "cases": 30,
+  "reading": {
+   "agree": 1.0,
+   "kappa": 1.0,
+   "disagreements": []
+  },
+  "order": {
+   "agree": 1.0,
+   "kappa": 1.0,
+   "disagreements": []
+  },
+  "merits": {
+   "agree": 1.0,
+   "kappa": 1.0,
+   "disagreements": []
+  },
+  "finished": {
+   "agree": 0.967,
+   "kappa": 0.932,
+   "disagreements": [
+    [
+     "qwen35-4b:080-colleague-plain-A-narrator-second-choice2",
+     "no",
+     "yes"
+    ]
+   ]
+  },
+  "stated_number": {
+   "agree": 0.967,
+   "kappa": 0.942,
+   "disagreements": [
+    [
+     "qwen35-4b:080-colleague-plain-A-narrator-second-choice2",
+     "none",
+     "1"
+    ]
+   ]
+  },
+  "defers": {
+   "agree": 1.0,
+   "kappa": 1.0,
+   "disagreements": []
+  },
+  "self_as_user": {
+   "agree": 0.933,
+   "kappa": 0.842,
+   "disagreements": [
+    [
+     "qwen35-4b:017-colleague-plain-A-choice2",
+     "yes",
+     "no"
+    ],
+    [
+     "qwen35-4b:060-colleague-plain-A-choice2",
+     "yes",
+     "no"
+    ]
+   ]
+  },
+  "coderA_merits_user": 0,
+  "coderA_defers_yes": 0,
+  "coderA_self_as_user_yes": 10,
+  "coderB_merits_user": 0,
+  "coderB_defers_yes": 0,
+  "coderB_self_as_user_yes": 8
+ }
+}

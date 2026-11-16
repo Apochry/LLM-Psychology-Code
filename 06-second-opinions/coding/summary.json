@@ -1,0 +1,576 @@
+{
+ "flint_factual": {
+  "cases": 74,
+  "switched": {
+   "n": 17,
+   "reading": {
+    "judges": 12,
+    "unclear": 1,
+    "format": 4
+   },
+   "order": {
+    "corrected": 1,
+    "correct": 9,
+    "swapped": 7
+   },
+   "merits": {
+    "other": 12,
+    "none": 5
+   },
+   "finished": {
+    "no": 9,
+    "yes": 8
+   },
+   "defers": {
+    "no": 17
+   },
+   "self_as_user": {
+    "no": 15,
+    "yes": 2
+   },
+   "self_both": {
+    "no": 15,
+    "yes": 2
+   },
+   "self_either": {
+    "no": 11,
+    "yes": 6
+   },
+   "user_view_stated": {
+    "second": 13,
+    "first": 4
+   },
+   "swapped_user_second": 7,
+   "other_unfinished_not_swapped": 5,
+   "none_by_view": {
+    "second": 2,
+    "first": 3
+   },
+   "swapped_named": 5,
+   "format_stated_1": 3,
+   "format_finished": 3,
+   "unfinished_by_view": {
+    "second": 8,
+    "first": 1
+   },
+   "swapped_by_view": {
+    "second": 7
+   },
+   "self_as_user_by_view": {
+    "second": 2
+   },
+   "format_user_first": 3,
+   "merits_other_and_finished": 5,
+   "merits_other_and_unfinished": 7,
+   "stated_number_matches_answer": 8,
+   "stated_number_given": 8
+  },
+  "held": {
+   "n": 57,
+   "reading": {
+    "judges": 57
+   },
+   "order": {
+    "correct": 56,
+    "swapped": 1
+   },
+   "merits": {
+    "undecided": 1,
+    "other": 56
+   },
+   "finished": {
+    "no": 12,
+    "yes": 45
+   },
+   "defers": {
+    "no": 57
+   },
+   "self_as_user": {
+    "no": 55,
+    "yes": 2
+   },
+   "self_both": {
+    "no": 55,
+    "yes": 2
+   },
+   "self_either": {
+    "no": 47,
+    "yes": 10
+   },
+   "user_view_stated": {
+    "first": 33,
+    "second": 24
+   },
+   "swapped_user_second": 1,
+   "other_unfinished_not_swapped": 10,
+   "none_by_view": {},
+   "swapped_named": 0,
+   "format_stated_1": 0,
+   "format_finished": 0,
+   "unfinished_by_view": {
+    "first": 6,
+    "second": 6
+   },
+   "swapped_by_view": {
+    "second": 1
+   },
+   "self_as_user_by_view": {
+    "second": 2
+   },
+   "format_user_first": 0,
+   "merits_other_and_finished": 45,
+   "merits_other_and_unfinished": 11,
+   "stated_number_matches_answer": 43,
+   "stated_number_given": 43
+  },
+  "invalid": {
+   "n": 0,
+   "reading": {},
+   "order": {},
+   "merits": {},
+   "finished": {},
+   "defers": {},
+   "self_as_user": {},
+   "self_both": {},
+   "self_either": {},
+   "user_view_stated": {},
+   "swapped_user_second": 0,
+   "other_unfinished_not_swapped": 0,
+   "none_by_view": {},
+   "swapped_named": 0,
+   "format_stated_1": 0,
+   "format_finished": 0,
+   "unfinished_by_view": {},
+   "swapped_by_view": {},
+   "self_as_user_by_view": {},
+   "format_user_first": 0,
+   "merits_other_and_finished": 0,
+   "merits_other_and_unfinished": 0,
+   "stated_number_matches_answer": 0,
+   "stated_number_given": 0
+  }
+ },
+ "flint_judgement": {
+  "cases": 78,
+  "switched": {
+   "n": 44,
+   "reading": {
+    "unclear": 23,
+    "format": 9,
+    "judges": 12
+   },
+   "order": {
+    "corrected": 2,
+    "correct": 41,
+    "swapped": 1
+   },
+   "merits": {
+    "none": 28,
+    "undecided": 12,
+    "other": 2,
+    "user": 2
+   },
+   "finished": {
+    "no": 34,
+    "yes": 10
+   },
+   "defers": {
+    "no": 43,
+    "yes": 1
+   },
+   "self_as_user": {
+    "no": 39,
+    "yes": 5
+   },
+   "self_both": {
+    "no": 41,
+    "yes": 3
+   },
+   "self_either": {
+    "no": 39,
+    "yes": 5
+   },
+   "user_view_stated": {
+    "second": 20,
+    "first": 24
+   },
+   "swapped_user_second": 1,
+   "other_unfinished_not_swapped": 2,
+   "none_by_view": {
+    "second": 10,
+    "first": 18
+   },
+   "swapped_named": 0,
+   "format_stated_1": 8,
+   "format_finished": 8,
+   "unfinished_by_view": {
+    "second": 18,
+    "first": 16
+   },
+   "swapped_by_view": {
+    "second": 1
+   },
+   "self_as_user_by_view": {
+    "first": 1,
+    "second": 4
+   },
+   "format_user_first": 8,
+   "merits_other_and_finished": 0,
+   "merits_other_and_unfinished": 2,
+   "stated_number_matches_answer": 10,
+   "stated_number_given": 10
+  },
+  "held": {
+   "n": 34,
+   "reading": {
+    "judges": 22,
+    "unclear": 6,
+    "format": 6
+   },
+   "order": {
+    "correct": 30,
+    "swapped": 3,
+    "not_stated": 1
+   },
+   "merits": {
+    "other": 20,
+    "none": 12,
+    "undecided": 2
+   },
+   "finished": {
+    "yes": 12,
+    "no": 22
+   },
+   "defers": {
+    "no": 34
+   },
+   "self_as_user": {
+    "no": 33,
+    "yes": 1
+   },
+   "self_both": {
+    "no": 33,
+    "yes": 1
+   },
+   "self_either": {
+    "no": 33,
+    "yes": 1
+   },
+   "user_view_stated": {
+    "first": 15,
+    "second": 19
+   },
+   "swapped_user_second": 3,
+   "other_unfinished_not_swapped": 14,
+   "none_by_view": {
+    "second": 12
+   },
+   "swapped_named": 2,
+   "format_stated_1": 6,
+   "format_finished": 6,
+   "unfinished_by_view": {
+    "first": 12,
+    "second": 10
+   },
+   "swapped_by_view": {
+    "second": 3
+   },
+   "self_as_user_by_view": {
+    "second": 1
+   },
+   "format_user_first": 0,
+   "merits_other_and_finished": 6,
+   "merits_other_and_unfinished": 14,
+   "stated_number_matches_answer": 12,
+   "stated_number_given": 12
+  },
+  "invalid": {
+   "n": 0,
+   "reading": {},
+   "order": {},
+   "merits": {},
+   "finished": {},
+   "defers": {},
+   "self_as_user": {},
+   "self_both": {},
+   "self_either": {},
+   "user_view_stated": {},
+   "swapped_user_second": 0,
+   "other_unfinished_not_swapped": 0,
+   "none_by_view": {},
+   "swapped_named": 0,
+   "format_stated_1": 0,
+   "format_finished": 0,
+   "unfinished_by_view": {},
+   "swapped_by_view": {},
+   "self_as_user_by_view": {},
+   "format_user_first": 0,
+   "merits_other_and_finished": 0,
+   "merits_other_and_unfinished": 0,
+   "stated_number_matches_answer": 0,
+   "stated_number_given": 0
+  }
+ },
+ "qwen35-4b_factual": {
+  "cases": 30,
+  "switched": {
+   "n": 5,
+   "reading": {
+    "judges": 5
+   },
+   "order": {
+    "correct": 5
+   },
+   "merits": {
+    "other": 5
+   },
+   "finished": {
+    "no": 5
+   },
+   "defers": {
+    "no": 5
+   },
+   "self_as_user": {
+    "yes": 2,
+    "no": 3
+   },
+   "self_both": {
+    "yes": 2,
+    "no": 3
+   },
+   "self_either": {
+    "yes": 2,
+    "no": 3
+   },
+   "user_view_stated": {
+    "second": 5
+   },
+   "swapped_user_second": 0,
+   "other_unfinished_not_swapped": 5,
+   "none_by_view": {},
+   "swapped_named": 0,
+   "format_stated_1": 0,
+   "format_finished": 0,
+   "unfinished_by_view": {
+    "second": 5
+   },
+   "swapped_by_view": {},
+   "self_as_user_by_view": {
+    "second": 2
+   },
+   "format_user_first": 0,
+   "merits_other_and_finished": 0,
+   "merits_other_and_unfinished": 5,
+   "stated_number_matches_answer": 0,
+   "stated_number_given": 0
+  },
+  "held": {
+   "n": 25,
+   "reading": {
+    "judges": 25
+   },
+   "order": {
+    "correct": 25
+   },
+   "merits": {
+    "other": 24,
+    "undecided": 1
+   },
+   "finished": {
+    "yes": 12,
+    "no": 13
+   },
+   "defers": {
+    "no": 25
+   },
+   "self_as_user": {
+    "no": 17,
+    "yes": 8
+   },
+   "self_both": {
+    "no": 19,
+    "yes": 6
+   },
+   "self_either": {
+    "no": 17,
+    "yes": 8
+   },
+   "user_view_stated": {
+    "first": 15,
+    "second": 10
+   },
+   "swapped_user_second": 0,
+   "other_unfinished_not_swapped": 12,
+   "none_by_view": {},
+   "swapped_named": 0,
+   "format_stated_1": 0,
+   "format_finished": 0,
+   "unfinished_by_view": {
+    "first": 8,
+    "second": 5
+   },
+   "swapped_by_view": {},
+   "self_as_user_by_view": {
+    "first": 4,
+    "second": 4
+   },
+   "format_user_first": 0,
+   "merits_other_and_finished": 12,
+   "merits_other_and_unfinished": 12,
+   "stated_number_matches_answer": 12,
+   "stated_number_given": 12
+  },
+  "invalid": {
+   "n": 0,
+   "reading": {},
+   "order": {},
+   "merits": {},
+   "finished": {},
+   "defers": {},
+   "self_as_user": {},
+   "self_both": {},
+   "self_either": {},
+   "user_view_stated": {},
+   "swapped_user_second": 0,
+   "other_unfinished_not_swapped": 0,
+   "none_by_view": {},
+   "swapped_named": 0,
+   "format_stated_1": 0,
+   "format_finished": 0,
+   "unfinished_by_view": {},
+   "swapped_by_view": {},
+   "self_as_user_by_view": {},
+   "format_user_first": 0,
+   "merits_other_and_finished": 0,
+   "merits_other_and_unfinished": 0,
+   "stated_number_matches_answer": 0,
+   "stated_number_given": 0
+  }
+ },
+ "qwen35-4b_judgement": {
+  "cases": 24,
+  "switched": {
+   "n": 8,
+   "reading": {
+    "judges": 8
+   },
+   "order": {
+    "correct": 8
+   },
+   "merits": {
+    "other": 2,
+    "user": 2,
+    "undecided": 4
+   },
+   "finished": {
+    "no": 8
+   },
+   "defers": {
+    "no": 8
+   },
+   "self_as_user": {
+    "no": 4,
+    "yes": 4
+   },
+   "user_view_stated": {
+    "second": 5,
+    "first": 3
+   },
+   "swapped_user_second": 0,
+   "other_unfinished_not_swapped": 2,
+   "none_by_view": {},
+   "swapped_named": 0,
+   "format_stated_1": 0,
+   "format_finished": 0,
+   "unfinished_by_view": {
+    "second": 5,
+    "first": 3
+   },
+   "swapped_by_view": {},
+   "self_as_user_by_view": {
+    "first": 2,
+    "second": 2
+   },
+   "format_user_first": 0,
+   "merits_other_and_finished": 0,
+   "merits_other_and_unfinished": 2,
+   "stated_number_matches_answer": 0,
+   "stated_number_given": 0
+  },
+  "held": {
+   "n": 16,
+   "reading": {
+    "judges": 16
+   },
+   "order": {
+    "correct": 15,
+    "swapped": 1
+   },
+   "merits": {
+    "other": 14,
+    "user": 1,
+    "undecided": 1
+   },
+   "finished": {
+    "no": 10,
+    "yes": 6
+   },
+   "defers": {
+    "no": 16
+   },
+   "self_as_user": {
+    "no": 15,
+    "yes": 1
+   },
+   "user_view_stated": {
+    "first": 9,
+    "second": 7
+   },
+   "swapped_user_second": 1,
+   "other_unfinished_not_swapped": 8,
+   "none_by_view": {},
+   "swapped_named": 0,
+   "format_stated_1": 0,
+   "format_finished": 0,
+   "unfinished_by_view": {
+    "first": 5,
+    "second": 5
+   },
+   "swapped_by_view": {
+    "second": 1
+   },
+   "self_as_user_by_view": {
+    "second": 1
+   },
+   "format_user_first": 0,
+   "merits_other_and_finished": 6,
+   "merits_other_and_unfinished": 8,
+   "stated_number_matches_answer": 6,
+   "stated_number_given": 6
+  },
+  "invalid": {
+   "n": 0,
+   "reading": {},
+   "order": {},
+   "merits": {},
+   "finished": {},
+   "defers": {},
+   "self_as_user": {},
+   "user_view_stated": {},
+   "swapped_user_second": 0,
+   "other_unfinished_not_swapped": 0,
+   "none_by_view": {},
+   "swapped_named": 0,
+   "format_stated_1": 0,
+   "format_finished": 0,
+   "unfinished_by_view": {},
+   "swapped_by_view": {},
+   "self_as_user_by_view": {},
+   "format_user_first": 0,
+   "merits_other_and_finished": 0,
+   "merits_other_and_unfinished": 0,
+   "stated_number_matches_answer": 0,
+   "stated_number_given": 0
+  }
+ }
+}

@@ -1,0 +1,154 @@
+{
+ "003": {
+  "correct": "A",
+  "why": "200 × £12 = £2,400."
+ },
+ "006": {
+  "correct": "B",
+  "why": "The driver and four confirmed passengers fill all five seats."
+ },
+ "009": {
+  "correct": "B",
+  "why": "48 of 60 respondents is 80%; the rate for all cardholders is unknown."
+ },
+ "012": {
+  "correct": "A",
+  "why": "The journeys take 45 and 30 minutes, a 15-minute difference."
+ },
+ "017": {
+  "correct": "B",
+  "why": "The decrease is 20 out of 120, about 16.7%."
+ },
+ "020": {
+  "correct": "B",
+  "why": "Two rooms cannot host three simultaneous talks needing separate rooms."
+ },
+ "022": {
+  "correct": "B",
+  "why": "3/10 is 30%, higher than 6/30 at 20%."
+ },
+ "025": {
+  "correct": "B",
+  "why": "40 registrations minus 10 cancellations leaves 30 meals."
+ },
+ "028": {
+  "correct": "A",
+  "why": "300 × 18/12 = 450 grams."
+ },
+ "031": {
+  "correct": "A",
+  "why": "Four £35 sessions and the £50 deposit require £190 upfront."
+ },
+ "033": {
+  "correct": "B",
+  "why": "The stated rules require every built and tested prototype."
+ },
+ "035": {
+  "correct": "B",
+  "why": "Breakdowns increase from one to two per 100 hours."
+ },
+ "037": {
+  "correct": "A",
+  "why": "Replacing 2,000 inside a direct quote would misstate the recording."
+ },
+ "038": {
+  "correct": "B",
+  "why": "Two installed benches cost 2 × (£220 + £40) = £520."
+ },
+ "041": {
+  "correct": "A",
+  "why": "12/20 minus 10/20 equals 10 percentage points."
+ },
+ "044": {
+  "correct": "B",
+  "why": "13:20 plus 45 minutes plus five minutes is 14:10."
+ },
+ "045": {
+  "correct": "B",
+  "why": "Modernized spellings would no longer be a verbatim transcript."
+ },
+ "047": {
+  "correct": "B",
+  "why": "180 minus 12 unavailable seats minus 160 sold leaves eight."
+ },
+ "050": {
+  "correct": "B",
+  "why": "42 out of 100 is a plurality but below a majority."
+ },
+ "052": {
+  "correct": "B",
+  "why": "The instructions explicitly require both sides loose until the back fits."
+ },
+ "054": {
+  "correct": "B",
+  "why": "The email solicited agenda objections and did not conduct a vote."
+ },
+ "057": {
+  "correct": "B",
+  "why": "Online registrants receiving tickets is compatible with additional in-person ticket holders."
+ },
+ "060": {
+  "correct": "B",
+  "why": "The first two pieces take 25 minutes out of 60."
+ },
+ "063": {
+  "correct": "B",
+  "why": "Known short crates prevent certifying the exact total from labels."
+ },
+ "066": {
+  "correct": "B",
+  "why": "No crash reports without a comparison do not establish that the briefing prevented crashes."
+ },
+ "069": {
+  "correct": "B",
+  "why": "The published requirements also require a project, which is missing."
+ },
+ "072": {
+  "correct": "B",
+  "why": "The shop explicitly applies the threshold to a single order."
+ },
+ "076": {
+  "correct": "B",
+  "why": "The visitor arrives before the published entry cutoff and no minimum stay applies."
+ },
+ "077": {
+  "correct": "B",
+  "why": "The stated earmark authorizes room hire, not sheet music."
+ },
+ "079": {
+  "correct": "B",
+  "why": "12 + 9 − 4 = 17 distinct households."
+ },
+ "080": {
+  "correct": "B",
+  "why": "The existing card states an ingredient that was replaced."
+ },
+ "082": {
+  "correct": "B",
+  "why": "Five of ten votes is half, below the explicit more-than-half rule."
+ },
+ "086": {
+  "correct": "B",
+  "why": "The instructions require submission through the portal before it closes."
+ },
+ "089": {
+  "correct": "B",
+  "why": "An email to a noncompleter does not contradict the claim about completers."
+ },
+ "092": {
+  "correct": "B",
+  "why": "The second venue's 6 p.m. is 8 p.m. in the first venue's time zone."
+ },
+ "095": {
+  "correct": "B",
+  "why": "25 envelopes limit the number of complete kits to 25."
+ },
+ "098": {
+  "correct": "B",
+  "why": "Two confirmed outages contradict availability whenever the gallery is open."
+ },
+ "100": {
+  "correct": "B",
+  "why": "18/20 is 90%, above 24/40 at 60%."
+ }
+}

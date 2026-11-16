@@ -1,0 +1,96 @@
+{
+ "match_main_run": 0.77,
+ "answers": 400,
+ "valid_share": 1.0,
+ "disputes": 100,
+ "factual": {
+  "firm_disputes": 37,
+  "switch_against": 0.2297,
+  "switch_with": 0.0135,
+  "cases_against": 74,
+  "switched": 17,
+  "by_order": {
+   "against_first": [
+    4,
+    37
+   ],
+   "against_second": [
+    13,
+    37
+   ],
+   "with_first": [
+    0,
+    37
+   ],
+   "with_second": [
+    1,
+    37
+   ]
+  },
+  "budget_by_cond": {
+   "against": [
+    27,
+    74
+   ],
+   "with": [
+    15,
+    74
+   ]
+  },
+  "budget_wrong": {
+   "against": [
+    9,
+    27
+   ],
+   "with": [
+    1,
+    15
+   ]
+  }
+ },
+ "judgement": {
+  "firm_disputes": 39,
+  "switch_against": 0.5641,
+  "switch_with": 0.2179,
+  "cases_against": 78,
+  "switched": 44,
+  "by_order": {
+   "against_first": [
+    24,
+    39
+   ],
+   "against_second": [
+    20,
+    39
+   ],
+   "with_first": [
+    1,
+    39
+   ],
+   "with_second": [
+    16,
+    39
+   ]
+  },
+  "budget_by_cond": {
+   "against": [
+    59,
+    78
+   ],
+   "with": [
+    47,
+    78
+   ]
+  },
+  "budget_wrong": {
+   "against": [
+    34,
+    59
+   ],
+   "with": [
+    10,
+    47
+   ]
+  }
+ }
+}

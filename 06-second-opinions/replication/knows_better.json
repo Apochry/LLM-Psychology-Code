@@ -1,0 +1,1976 @@
+{
+ "flint-think": {
+  "choice": {
+   "factual": {
+    "firm_disputes": 19,
+    "of": 19,
+    "switch_against": [
+     0.237,
+     0.105,
+     0.368,
+     19
+    ],
+    "switch_with": [
+     0.053,
+     0.0,
+     0.132,
+     19
+    ],
+    "caving": [
+     0.184,
+     0.079,
+     0.316,
+     19
+    ]
+   },
+   "judgement": {
+    "firm_disputes": 21,
+    "of": 31,
+    "switch_against": [
+     0.69,
+     0.524,
+     0.833,
+     21
+    ],
+    "switch_with": [
+     0.214,
+     0.119,
+     0.31,
+     21
+    ],
+    "caving": [
+     0.476,
+     0.286,
+     0.667,
+     21
+    ]
+   }
+  },
+  "rating": {
+   "factual": {
+    "firm_disputes": 19,
+    "of": 19,
+    "switch_against": [
+     0.421,
+     0.237,
+     0.605,
+     19
+    ],
+    "switch_with": [
+     0.079,
+     0.0,
+     0.158,
+     19
+    ],
+    "caving": [
+     0.342,
+     0.158,
+     0.526,
+     19
+    ]
+   },
+   "judgement": {
+    "firm_disputes": 21,
+    "of": 31,
+    "switch_against": [
+     0.667,
+     0.476,
+     0.833,
+     21
+    ],
+    "switch_with": [
+     0.024,
+     0.0,
+     0.071,
+     21
+    ],
+    "caving": [
+     0.643,
+     0.476,
+     0.81,
+     21
+    ]
+   }
+  },
+  "all100": {
+   "choice": {
+    "factual": {
+     "firm_disputes": 37,
+     "of": 38,
+     "switch_against": [
+      0.243,
+      0.135,
+      0.351,
+      37
+     ],
+     "switch_with": [
+      0.041,
+      0.0,
+      0.095,
+      37
+     ],
+     "caving": [
+      0.203,
+      0.108,
+      0.311,
+      37
+     ]
+    },
+    "judgement": {
+     "firm_disputes": 39,
+     "of": 62,
+     "switch_against": [
+      0.667,
+      0.551,
+      0.782,
+      39
+     ],
+     "switch_with": [
+      0.218,
+      0.141,
+      0.295,
+      39
+     ],
+     "caving": [
+      0.449,
+      0.308,
+      0.577,
+      39
+     ]
+    }
+   },
+   "rating": {
+    "factual": {
+     "firm_disputes": 36,
+     "of": 38,
+     "switch_against": [
+      0.306,
+      0.194,
+      0.431,
+      36
+     ],
+     "switch_with": [
+      0.056,
+      0.014,
+      0.111,
+      36
+     ],
+     "caving": [
+      0.25,
+      0.139,
+      0.375,
+      36
+     ]
+    },
+    "judgement": {
+     "firm_disputes": 44,
+     "of": 62,
+     "switch_against": [
+      0.648,
+      0.534,
+      0.761,
+      44
+     ],
+     "switch_with": [
+      0.011,
+      0.0,
+      0.034,
+      44
+     ],
+     "caving": [
+      0.636,
+      0.523,
+      0.75,
+      44
+     ]
+    }
+   }
+  }
+ },
+ "flint-think2048": {
+  "choice": {
+   "factual": {
+    "firm_disputes": 19,
+    "of": 19,
+    "switch_against": [
+     0.079,
+     0.0,
+     0.158,
+     19
+    ],
+    "switch_with": [
+     0.053,
+     0.0,
+     0.132,
+     19
+    ],
+    "caving": [
+     0.026,
+     0.0,
+     0.079,
+     19
+    ]
+   },
+   "judgement": {
+    "firm_disputes": 22,
+    "of": 31,
+    "switch_against": [
+     0.341,
+     0.205,
+     0.5,
+     22
+    ],
+    "switch_with": [
+     0.136,
+     0.045,
+     0.227,
+     22
+    ],
+    "caving": [
+     0.205,
+     0.023,
+     0.386,
+     22
+    ]
+   }
+  },
+  "rating": {
+   "factual": {
+    "firm_disputes": 18,
+    "of": 19,
+    "switch_against": [
+     0.111,
+     0.028,
+     0.222,
+     18
+    ],
+    "switch_with": [
+     0.028,
+     0.0,
+     0.083,
+     18
+    ],
+    "caving": [
+     0.083,
+     -0.028,
+     0.194,
+     18
+    ]
+   },
+   "judgement": {
+    "firm_disputes": 25,
+    "of": 31,
+    "switch_against": [
+     0.66,
+     0.52,
+     0.8,
+     25
+    ],
+    "switch_with": [
+     0.0,
+     0.0,
+     0.0,
+     25
+    ],
+    "caving": [
+     0.66,
+     0.52,
+     0.8,
+     25
+    ]
+   }
+  }
+ },
+ "gemma4-12b-off": {
+  "choice": {
+   "factual": {
+    "firm_disputes": 17,
+    "of": 19,
+    "switch_against": [
+     0.059,
+     0.0,
+     0.147,
+     17
+    ],
+    "switch_with": [
+     0.0,
+     0.0,
+     0.0,
+     17
+    ],
+    "caving": [
+     0.059,
+     0.0,
+     0.147,
+     17
+    ]
+   },
+   "judgement": {
+    "firm_disputes": 13,
+    "of": 21,
+    "switch_against": [
+     0.25,
+     0.077,
+     0.462,
+     13
+    ],
+    "switch_with": [
+     0.077,
+     0.0,
+     0.173,
+     13
+    ],
+    "caving": [
+     0.173,
+     0.0,
+     0.385,
+     13
+    ]
+   }
+  },
+  "rating": {
+   "factual": {
+    "firm_disputes": 13,
+    "of": 19,
+    "switch_against": [
+     0.135,
+     0.0,
+     0.288,
+     13
+    ],
+    "switch_with": [
+     0.423,
+     0.154,
+     0.692,
+     13
+    ],
+    "caving": [
+     -0.288,
+     -0.577,
+     0.019,
+     13
+    ]
+   },
+   "judgement": {
+    "firm_disputes": 7,
+    "of": 31,
+    "switch_against": [
+     0.071,
+     0.0,
+     0.214,
+     7
+    ],
+    "switch_with": [
+     0.464,
+     0.143,
+     0.857,
+     7
+    ],
+    "caving": [
+     -0.393,
+     -0.714,
+     -0.036,
+     7
+    ]
+   }
+  },
+  "all100": {
+   "choice": {
+    "factual": {
+     "firm_disputes": 35,
+     "of": 38,
+     "switch_against": [
+      0.079,
+      0.021,
+      0.15,
+      35
+     ],
+     "switch_with": [
+      0.014,
+      0.0,
+      0.043,
+      35
+     ],
+     "caving": [
+      0.064,
+      0.0,
+      0.136,
+      35
+     ]
+    },
+    "judgement": {
+     "firm_disputes": 32,
+     "of": 51,
+     "switch_against": [
+      0.281,
+      0.148,
+      0.422,
+      32
+     ],
+     "switch_with": [
+      0.078,
+      0.023,
+      0.141,
+      32
+     ],
+     "caving": [
+      0.203,
+      0.062,
+      0.344,
+      32
+     ]
+    }
+   },
+   "rating": {
+    "factual": {
+     "firm_disputes": 25,
+     "of": 38,
+     "switch_against": [
+      0.12,
+      0.04,
+      0.21,
+      25
+     ],
+     "switch_with": [
+      0.43,
+      0.26,
+      0.61,
+      25
+     ],
+     "caving": [
+      -0.31,
+      -0.5,
+      -0.11,
+      25
+     ]
+    },
+    "judgement": {
+     "firm_disputes": 16,
+     "of": 62,
+     "switch_against": [
+      0.047,
+      0.0,
+      0.125,
+      16
+     ],
+     "switch_with": [
+      0.359,
+      0.156,
+      0.562,
+      16
+     ],
+     "caving": [
+      -0.312,
+      -0.531,
+      -0.109,
+      16
+     ]
+    }
+   }
+  }
+ },
+ "gemma4-12b-think": {
+  "choice": {
+   "factual": {
+    "firm_disputes": 17,
+    "of": 19,
+    "switch_against": [
+     0.0,
+     0.0,
+     0.0,
+     17
+    ],
+    "switch_with": [
+     0.0,
+     0.0,
+     0.0,
+     17
+    ],
+    "caving": [
+     0.0,
+     0.0,
+     0.0,
+     17
+    ]
+   },
+   "judgement": {
+    "firm_disputes": 5,
+    "of": 22,
+    "switch_against": [
+     0.0,
+     0.0,
+     0.0,
+     5
+    ],
+    "switch_with": [
+     0.1,
+     0.0,
+     0.3,
+     5
+    ],
+    "caving": [
+     -0.1,
+     -0.3,
+     0.0,
+     5
+    ]
+   }
+  },
+  "rating": {
+   "factual": {
+    "firm_disputes": 14,
+    "of": 19,
+    "switch_against": [
+     0.0,
+     0.0,
+     0.0,
+     14
+    ],
+    "switch_with": [
+     0.036,
+     0.0,
+     0.107,
+     14
+    ],
+    "caving": [
+     -0.036,
+     -0.107,
+     0.0,
+     14
+    ]
+   },
+   "judgement": {
+    "firm_disputes": 6,
+    "of": 31,
+    "switch_against": [
+     0.0,
+     0.0,
+     0.0,
+     6
+    ],
+    "switch_with": [
+     0.0,
+     0.0,
+     0.0,
+     6
+    ],
+    "caving": [
+     0.0,
+     0.0,
+     0.0,
+     6
+    ]
+   }
+  }
+ },
+ "glimmer30b-high": {
+  "choice": {
+   "factual": {
+    "firm_disputes": 18,
+    "of": 19,
+    "switch_against": [
+     0.0,
+     0.0,
+     0.0,
+     18
+    ],
+    "switch_with": [
+     0.0,
+     0.0,
+     0.0,
+     18
+    ],
+    "caving": [
+     0.0,
+     0.0,
+     0.0,
+     18
+    ]
+   },
+   "judgement": {
+    "firm_disputes": 28,
+    "of": 31,
+    "switch_against": [
+     0.018,
+     0.0,
+     0.054,
+     28
+    ],
+    "switch_with": [
+     0.018,
+     0.0,
+     0.054,
+     28
+    ],
+    "caving": [
+     0.0,
+     0.0,
+     0.0,
+     28
+    ]
+   }
+  },
+  "rating": {
+   "factual": {
+    "firm_disputes": 18,
+    "of": 19,
+    "switch_against": [
+     0.0,
+     0.0,
+     0.0,
+     18
+    ],
+    "switch_with": [
+     0.0,
+     0.0,
+     0.0,
+     18
+    ],
+    "caving": [
+     0.0,
+     0.0,
+     0.0,
+     18
+    ]
+   },
+   "judgement": {
+    "firm_disputes": 24,
+    "of": 30,
+    "switch_against": [
+     0.0,
+     0.0,
+     0.0,
+     24
+    ],
+    "switch_with": [
+     0.0,
+     0.0,
+     0.0,
+     24
+    ],
+    "caving": [
+     0.0,
+     0.0,
+     0.0,
+     24
+    ]
+   }
+  }
+ },
+ "glimmer30b-low": {
+  "choice": {
+   "factual": {
+    "firm_disputes": 18,
+    "of": 19,
+    "switch_against": [
+     0.0,
+     0.0,
+     0.0,
+     18
+    ],
+    "switch_with": [
+     0.0,
+     0.0,
+     0.0,
+     18
+    ],
+    "caving": [
+     0.0,
+     0.0,
+     0.0,
+     18
+    ]
+   },
+   "judgement": {
+    "firm_disputes": 27,
+    "of": 31,
+    "switch_against": [
+     0.204,
+     0.093,
+     0.333,
+     27
+    ],
+    "switch_with": [
+     0.056,
+     0.0,
+     0.13,
+     27
+    ],
+    "caving": [
+     0.148,
+     0.037,
+     0.278,
+     27
+    ]
+   }
+  },
+  "rating": {
+   "factual": {
+    "firm_disputes": 19,
+    "of": 19,
+    "switch_against": [
+     0.0,
+     0.0,
+     0.0,
+     19
+    ],
+    "switch_with": [
+     0.0,
+     0.0,
+     0.0,
+     19
+    ],
+    "caving": [
+     0.0,
+     0.0,
+     0.0,
+     19
+    ]
+   },
+   "judgement": {
+    "firm_disputes": 26,
+    "of": 31,
+    "switch_against": [
+     0.115,
+     0.038,
+     0.192,
+     26
+    ],
+    "switch_with": [
+     0.0,
+     0.0,
+     0.0,
+     26
+    ],
+    "caving": [
+     0.115,
+     0.038,
+     0.212,
+     26
+    ]
+   }
+  },
+  "all100": {
+   "choice": {
+    "factual": {
+     "firm_disputes": 37,
+     "of": 38,
+     "switch_against": [
+      0.0,
+      0.0,
+      0.0,
+      37
+     ],
+     "switch_with": [
+      0.0,
+      0.0,
+      0.0,
+      37
+     ],
+     "caving": [
+      0.0,
+      0.0,
+      0.0,
+      37
+     ]
+    },
+    "judgement": {
+     "firm_disputes": 54,
+     "of": 62,
+     "switch_against": [
+      0.167,
+      0.093,
+      0.25,
+      54
+     ],
+     "switch_with": [
+      0.037,
+      0.009,
+      0.074,
+      54
+     ],
+     "caving": [
+      0.13,
+      0.065,
+      0.204,
+      54
+     ]
+    }
+   },
+   "rating": {
+    "factual": {
+     "firm_disputes": 38,
+     "of": 38,
+     "switch_against": [
+      0.0,
+      0.0,
+      0.0,
+      38
+     ],
+     "switch_with": [
+      0.0,
+      0.0,
+      0.0,
+      38
+     ],
+     "caving": [
+      0.0,
+      0.0,
+      0.0,
+      38
+     ]
+    },
+    "judgement": {
+     "firm_disputes": 52,
+     "of": 62,
+     "switch_against": [
+      0.106,
+      0.048,
+      0.173,
+      52
+     ],
+     "switch_with": [
+      0.019,
+      0.0,
+      0.058,
+      52
+     ],
+     "caving": [
+      0.087,
+      0.038,
+      0.135,
+      52
+     ]
+    }
+   }
+  }
+ },
+ "glimmer30b-medium": {
+  "choice": {
+   "factual": {
+    "firm_disputes": 19,
+    "of": 19,
+    "switch_against": [
+     0.0,
+     0.0,
+     0.0,
+     19
+    ],
+    "switch_with": [
+     0.0,
+     0.0,
+     0.0,
+     19
+    ],
+    "caving": [
+     0.0,
+     0.0,
+     0.0,
+     19
+    ]
+   },
+   "judgement": {
+    "firm_disputes": 27,
+    "of": 31,
+    "switch_against": [
+     0.0,
+     0.0,
+     0.0,
+     27
+    ],
+    "switch_with": [
+     0.056,
+     0.0,
+     0.112,
+     27
+    ],
+    "caving": [
+     -0.056,
+     -0.13,
+     0.0,
+     27
+    ]
+   }
+  },
+  "rating": {
+   "factual": {
+    "firm_disputes": 19,
+    "of": 19,
+    "switch_against": [
+     0.0,
+     0.0,
+     0.0,
+     19
+    ],
+    "switch_with": [
+     0.0,
+     0.0,
+     0.0,
+     19
+    ],
+    "caving": [
+     0.0,
+     0.0,
+     0.0,
+     19
+    ]
+   },
+   "judgement": {
+    "firm_disputes": 25,
+    "of": 31,
+    "switch_against": [
+     0.04,
+     0.0,
+     0.1,
+     25
+    ],
+    "switch_with": [
+     0.0,
+     0.0,
+     0.0,
+     25
+    ],
+    "caving": [
+     0.04,
+     0.0,
+     0.1,
+     25
+    ]
+   }
+  }
+ },
+ "qwen35-4b-off": {
+  "choice": {
+   "factual": {
+    "firm_disputes": 3,
+    "of": 19,
+    "switch_against": [
+     0.417,
+     0.0,
+     0.75,
+     3
+    ],
+    "switch_with": [
+     0.25,
+     0.25,
+     0.25,
+     3
+    ],
+    "caving": [
+     0.167,
+     -0.25,
+     0.5,
+     3
+    ]
+   },
+   "judgement": {
+    "firm_disputes": 7,
+    "of": 31,
+    "switch_against": [
+     0.536,
+     0.5,
+     0.607,
+     7
+    ],
+    "switch_with": [
+     0.357,
+     0.214,
+     0.464,
+     7
+    ],
+    "caving": [
+     0.179,
+     0.071,
+     0.321,
+     7
+    ]
+   }
+  },
+  "rating": {
+   "factual": {
+    "firm_disputes": 2,
+    "of": 19,
+    "switch_against": [
+     0.25,
+     0.0,
+     0.5,
+     2
+    ],
+    "switch_with": [
+     0.0,
+     0.0,
+     0.0,
+     2
+    ],
+    "caving": [
+     0.25,
+     0.0,
+     0.5,
+     2
+    ]
+   },
+   "judgement": {
+    "firm_disputes": 19,
+    "of": 31,
+    "switch_against": [
+     0.329,
+     0.197,
+     0.474,
+     19
+    ],
+    "switch_with": [
+     0.118,
+     0.026,
+     0.224,
+     19
+    ],
+    "caving": [
+     0.211,
+     0.092,
+     0.342,
+     19
+    ]
+   }
+  },
+  "all100": {
+   "choice": {
+    "factual": {
+     "firm_disputes": 9,
+     "of": 38,
+     "switch_against": [
+      0.361,
+      0.194,
+      0.528,
+      9
+     ],
+     "switch_with": [
+      0.222,
+      0.139,
+      0.306,
+      9
+     ],
+     "caving": [
+      0.139,
+      -0.056,
+      0.333,
+      9
+     ]
+    },
+    "judgement": {
+     "firm_disputes": 19,
+     "of": 62,
+     "switch_against": [
+      0.5,
+      0.421,
+      0.579,
+      19
+     ],
+     "switch_with": [
+      0.25,
+      0.158,
+      0.342,
+      19
+     ],
+     "caving": [
+      0.25,
+      0.132,
+      0.355,
+      19
+     ]
+    }
+   },
+   "rating": {
+    "factual": {
+     "firm_disputes": 3,
+     "of": 38,
+     "switch_against": [
+      0.25,
+      0.0,
+      0.5,
+      3
+     ],
+     "switch_with": [
+      0.0,
+      0.0,
+      0.0,
+      3
+     ],
+     "caving": [
+      0.25,
+      0.0,
+      0.5,
+      3
+     ]
+    },
+    "judgement": {
+     "firm_disputes": 33,
+     "of": 62,
+     "switch_against": [
+      0.242,
+      0.152,
+      0.341,
+      33
+     ],
+     "switch_with": [
+      0.098,
+      0.038,
+      0.167,
+      33
+     ],
+     "caving": [
+      0.144,
+      0.068,
+      0.227,
+      33
+     ]
+    }
+   }
+  }
+ },
+ "qwen35-4b-think": {
+  "choice": {
+   "factual": {
+    "firm_disputes": 15,
+    "of": 19,
+    "switch_against": [
+     0.133,
+     0.033,
+     0.233,
+     15
+    ],
+    "switch_with": [
+     0.033,
+     0.0,
+     0.1,
+     15
+    ],
+    "caving": [
+     0.1,
+     0.0,
+     0.2,
+     15
+    ]
+   },
+   "judgement": {
+    "firm_disputes": 12,
+    "of": 31,
+    "switch_against": [
+     0.375,
+     0.167,
+     0.583,
+     12
+    ],
+    "switch_with": [
+     0.125,
+     0.0,
+     0.25,
+     12
+    ],
+    "caving": [
+     0.25,
+     0.083,
+     0.458,
+     12
+    ]
+   }
+  },
+  "rating": {
+   "factual": {
+    "firm_disputes": 5,
+    "of": 19,
+    "switch_against": [
+     0.5,
+     0.2,
+     0.8,
+     5
+    ],
+    "switch_with": [
+     0.1,
+     0.0,
+     0.3,
+     5
+    ],
+    "caving": [
+     0.4,
+     0.2,
+     0.5,
+     5
+    ]
+   },
+   "judgement": {
+    "firm_disputes": 21,
+    "of": 31,
+    "switch_against": [
+     0.5,
+     0.357,
+     0.643,
+     21
+    ],
+    "switch_with": [
+     0.071,
+     0.0,
+     0.143,
+     21
+    ],
+    "caving": [
+     0.429,
+     0.262,
+     0.595,
+     21
+    ]
+   }
+  }
+ },
+ "qwen35-4b-think2048": {
+  "choice": {
+   "factual": {
+    "firm_disputes": 19,
+    "of": 19,
+    "switch_against": [
+     0.026,
+     0.0,
+     0.079,
+     19
+    ],
+    "switch_with": [
+     0.0,
+     0.0,
+     0.0,
+     19
+    ],
+    "caving": [
+     0.026,
+     0.0,
+     0.079,
+     19
+    ]
+   },
+   "judgement": {
+    "firm_disputes": 21,
+    "of": 31,
+    "switch_against": [
+     0.214,
+     0.095,
+     0.357,
+     21
+    ],
+    "switch_with": [
+     0.071,
+     0.0,
+     0.167,
+     21
+    ],
+    "caving": [
+     0.143,
+     0.024,
+     0.286,
+     21
+    ]
+   }
+  },
+  "rating": {
+   "factual": {
+    "firm_disputes": 19,
+    "of": 19,
+    "switch_against": [
+     0.053,
+     0.0,
+     0.132,
+     19
+    ],
+    "switch_with": [
+     0.0,
+     0.0,
+     0.0,
+     19
+    ],
+    "caving": [
+     0.053,
+     0.0,
+     0.132,
+     19
+    ]
+   },
+   "judgement": {
+    "firm_disputes": 24,
+    "of": 31,
+    "switch_against": [
+     0.458,
+     0.292,
+     0.625,
+     24
+    ],
+    "switch_with": [
+     0.042,
+     0.0,
+     0.104,
+     24
+    ],
+    "caving": [
+     0.417,
+     0.25,
+     0.583,
+     24
+    ]
+   }
+  }
+ },
+ "qwen36-35b-off": {
+  "choice": {
+   "factual": {
+    "firm_disputes": 15,
+    "of": 19,
+    "switch_against": [
+     0.1,
+     0.017,
+     0.2,
+     15
+    ],
+    "switch_with": [
+     0.0,
+     0.0,
+     0.0,
+     15
+    ],
+    "caving": [
+     0.1,
+     0.017,
+     0.2,
+     15
+    ]
+   },
+   "judgement": {
+    "firm_disputes": 12,
+    "of": 31,
+    "switch_against": [
+     0.229,
+     0.062,
+     0.417,
+     12
+    ],
+    "switch_with": [
+     0.062,
+     0.0,
+     0.167,
+     12
+    ],
+    "caving": [
+     0.167,
+     0.021,
+     0.312,
+     12
+    ]
+   }
+  },
+  "rating": {
+   "factual": {
+    "firm_disputes": 9,
+    "of": 19,
+    "switch_against": [
+     0.417,
+     0.25,
+     0.583,
+     9
+    ],
+    "switch_with": [
+     0.278,
+     0.139,
+     0.417,
+     9
+    ],
+    "caving": [
+     0.139,
+     -0.139,
+     0.389,
+     9
+    ]
+   },
+   "judgement": {
+    "firm_disputes": 10,
+    "of": 31,
+    "switch_against": [
+     0.35,
+     0.175,
+     0.55,
+     10
+    ],
+    "switch_with": [
+     0.125,
+     0.0,
+     0.3,
+     10
+    ],
+    "caving": [
+     0.225,
+     -0.1,
+     0.525,
+     10
+    ]
+   }
+  },
+  "all100": {
+   "choice": {
+    "factual": {
+     "firm_disputes": 30,
+     "of": 38,
+     "switch_against": [
+      0.117,
+      0.05,
+      0.192,
+      30
+     ],
+     "switch_with": [
+      0.008,
+      0.0,
+      0.025,
+      30
+     ],
+     "caving": [
+      0.108,
+      0.05,
+      0.183,
+      30
+     ]
+    },
+    "judgement": {
+     "firm_disputes": 35,
+     "of": 62,
+     "switch_against": [
+      0.214,
+      0.129,
+      0.307,
+      35
+     ],
+     "switch_with": [
+      0.043,
+      0.007,
+      0.086,
+      35
+     ],
+     "caving": [
+      0.171,
+      0.093,
+      0.25,
+      35
+     ]
+    }
+   },
+   "rating": {
+    "factual": {
+     "firm_disputes": 17,
+     "of": 38,
+     "switch_against": [
+      0.397,
+      0.279,
+      0.515,
+      17
+     ],
+     "switch_with": [
+      0.279,
+      0.176,
+      0.382,
+      17
+     ],
+     "caving": [
+      0.118,
+      -0.044,
+      0.279,
+      17
+     ]
+    },
+    "judgement": {
+     "firm_disputes": 29,
+     "of": 62,
+     "switch_against": [
+      0.431,
+      0.31,
+      0.552,
+      29
+     ],
+     "switch_with": [
+      0.172,
+      0.095,
+      0.259,
+      29
+     ],
+     "caving": [
+      0.259,
+      0.103,
+      0.414,
+      29
+     ]
+    }
+   }
+  }
+ },
+ "qwen36-35b-think": {
+  "choice": {
+   "factual": {
+    "firm_disputes": 18,
+    "of": 19,
+    "switch_against": [
+     0.0,
+     0.0,
+     0.0,
+     18
+    ],
+    "switch_with": [
+     0.0,
+     0.0,
+     0.0,
+     18
+    ],
+    "caving": [
+     0.0,
+     0.0,
+     0.0,
+     18
+    ]
+   },
+   "judgement": {
+    "firm_disputes": 25,
+    "of": 31,
+    "switch_against": [
+     0.14,
+     0.06,
+     0.24,
+     25
+    ],
+    "switch_with": [
+     0.12,
+     0.04,
+     0.22,
+     25
+    ],
+    "caving": [
+     0.02,
+     -0.06,
+     0.1,
+     25
+    ]
+   }
+  },
+  "rating": {
+   "factual": {
+    "firm_disputes": 18,
+    "of": 19,
+    "switch_against": [
+     0.0,
+     0.0,
+     0.0,
+     18
+    ],
+    "switch_with": [
+     0.0,
+     0.0,
+     0.0,
+     18
+    ],
+    "caving": [
+     0.0,
+     0.0,
+     0.0,
+     18
+    ]
+   },
+   "judgement": {
+    "firm_disputes": 21,
+    "of": 31,
+    "switch_against": [
+     0.262,
+     0.095,
+     0.452,
+     21
+    ],
+    "switch_with": [
+     0.119,
+     0.024,
+     0.238,
+     21
+    ],
+    "caving": [
+     0.143,
+     -0.048,
+     0.357,
+     21
+    ]
+   }
+  },
+  "all100": {
+   "choice": {
+    "factual": {
+     "firm_disputes": 37,
+     "of": 38,
+     "switch_against": [
+      0.0,
+      0.0,
+      0.0,
+      37
+     ],
+     "switch_with": [
+      0.0,
+      0.0,
+      0.0,
+      37
+     ],
+     "caving": [
+      0.0,
+      0.0,
+      0.0,
+      37
+     ]
+    },
+    "judgement": {
+     "firm_disputes": 50,
+     "of": 62,
+     "switch_against": [
+      0.13,
+      0.07,
+      0.2,
+      50
+     ],
+     "switch_with": [
+      0.08,
+      0.03,
+      0.14,
+      50
+     ],
+     "caving": [
+      0.05,
+      -0.02,
+      0.13,
+      50
+     ]
+    }
+   },
+   "rating": {
+    "factual": {
+     "firm_disputes": 33,
+     "of": 38,
+     "switch_against": [
+      0.015,
+      0.0,
+      0.045,
+      33
+     ],
+     "switch_with": [
+      0.0,
+      0.0,
+      0.0,
+      33
+     ],
+     "caving": [
+      0.015,
+      0.0,
+      0.045,
+      33
+     ]
+    },
+    "judgement": {
+     "firm_disputes": 46,
+     "of": 62,
+     "switch_against": [
+      0.174,
+      0.087,
+      0.272,
+      46
+     ],
+     "switch_with": [
+      0.054,
+      0.011,
+      0.12,
+      46
+     ],
+     "caving": [
+      0.12,
+      0.022,
+      0.228,
+      46
+     ]
+    }
+   }
+  }
+ },
+ "qwen38-27b-off": {
+  "choice": {
+   "factual": {
+    "firm_disputes": 17,
+    "of": 19,
+    "switch_against": [
+     0.132,
+     0.044,
+     0.221,
+     17
+    ],
+    "switch_with": [
+     0.147,
+     0.044,
+     0.279,
+     17
+    ],
+    "caving": [
+     -0.015,
+     -0.191,
+     0.147,
+     17
+    ]
+   },
+   "judgement": {
+    "firm_disputes": 12,
+    "of": 31,
+    "switch_against": [
+     0.292,
+     0.167,
+     0.417,
+     12
+    ],
+    "switch_with": [
+     0.229,
+     0.104,
+     0.375,
+     12
+    ],
+    "caving": [
+     0.062,
+     -0.062,
+     0.188,
+     12
+    ]
+   }
+  },
+  "rating": {
+   "factual": {
+    "firm_disputes": 7,
+    "of": 19,
+    "switch_against": [
+     0.107,
+     0.036,
+     0.214,
+     7
+    ],
+    "switch_with": [
+     0.25,
+     0.036,
+     0.536,
+     7
+    ],
+    "caving": [
+     -0.143,
+     -0.464,
+     0.143,
+     7
+    ]
+   },
+   "judgement": {
+    "firm_disputes": 10,
+    "of": 31,
+    "switch_against": [
+     0.3,
+     0.125,
+     0.475,
+     10
+    ],
+    "switch_with": [
+     0.075,
+     0.0,
+     0.15,
+     10
+    ],
+    "caving": [
+     0.225,
+     0.05,
+     0.4,
+     10
+    ]
+   }
+  },
+  "all100": {
+   "choice": {
+    "factual": {
+     "firm_disputes": 31,
+     "of": 38,
+     "switch_against": [
+      0.169,
+      0.105,
+      0.242,
+      31
+     ],
+     "switch_with": [
+      0.137,
+      0.065,
+      0.218,
+      31
+     ],
+     "caving": [
+      0.032,
+      -0.073,
+      0.137,
+      31
+     ]
+    },
+    "judgement": {
+     "firm_disputes": 29,
+     "of": 62,
+     "switch_against": [
+      0.198,
+      0.112,
+      0.284,
+      29
+     ],
+     "switch_with": [
+      0.129,
+      0.06,
+      0.207,
+      29
+     ],
+     "caving": [
+      0.069,
+      0.0,
+      0.138,
+      29
+     ]
+    }
+   },
+   "rating": {
+    "factual": {
+     "firm_disputes": 14,
+     "of": 38,
+     "switch_against": [
+      0.071,
+      0.018,
+      0.125,
+      14
+     ],
+     "switch_with": [
+      0.196,
+      0.054,
+      0.357,
+      14
+     ],
+     "caving": [
+      -0.125,
+      -0.304,
+      0.036,
+      14
+     ]
+    },
+    "judgement": {
+     "firm_disputes": 19,
+     "of": 62,
+     "switch_against": [
+      0.316,
+      0.171,
+      0.461,
+      19
+     ],
+     "switch_with": [
+      0.092,
+      0.026,
+      0.158,
+      19
+     ],
+     "caving": [
+      0.224,
+      0.079,
+      0.382,
+      19
+     ]
+    }
+   }
+  }
+ },
+ "qwen38-27b-think": {
+  "choice": {
+   "factual": {
+    "firm_disputes": 19,
+    "of": 19,
+    "switch_against": [
+     0.0,
+     0.0,
+     0.0,
+     19
+    ],
+    "switch_with": [
+     0.0,
+     0.0,
+     0.0,
+     19
+    ],
+    "caving": [
+     0.0,
+     0.0,
+     0.0,
+     19
+    ]
+   },
+   "judgement": {
+    "firm_disputes": 26,
+    "of": 31,
+    "switch_against": [
+     0.096,
+     0.019,
+     0.192,
+     26
+    ],
+    "switch_with": [
+     0.038,
+     0.0,
+     0.115,
+     26
+    ],
+    "caving": [
+     0.058,
+     -0.038,
+     0.154,
+     26
+    ]
+   }
+  },
+  "rating": {
+   "factual": {
+    "firm_disputes": 19,
+    "of": 19,
+    "switch_against": [
+     0.0,
+     0.0,
+     0.0,
+     19
+    ],
+    "switch_with": [
+     0.053,
+     0.0,
+     0.132,
+     19
+    ],
+    "caving": [
+     -0.053,
+     -0.132,
+     0.0,
+     19
+    ]
+   },
+   "judgement": {
+    "firm_disputes": 23,
+    "of": 31,
+    "switch_against": [
+     0.196,
+     0.087,
+     0.348,
+     23
+    ],
+    "switch_with": [
+     0.043,
+     0.0,
+     0.109,
+     23
+    ],
+    "caving": [
+     0.152,
+     0.043,
+     0.283,
+     23
+    ]
+   }
+  }
+ }
+}

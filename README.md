@@ -13,6 +13,7 @@ Everything here runs on one desktop GPU with open models. Nothing needs an API k
 | [`03-makers-mark/`](03-makers-mark) | [Maker's Mark](https://llm-psychology.vercel.app/papers/who-made-you/): who chatbots say made them, and whether they can use the fact | `recite_vs_use.py` |
 | [`04-factory-settings/`](04-factory-settings) | [Factory Settings](https://llm-psychology.vercel.app/papers/factory-settings/): why OLMo 3 says OpenAI made it | `olmo_stages_demo.py` |
 | [`05-on-second-thought/`](05-on-second-thought) | [On Second Thought](https://llm-psychology.vercel.app/papers/on-second-thought/): sycophancy in Qwen3.6-35B-A3B, with all the answers | `pull_example.py` |
+| [`06-second-opinions/`](06-second-opinions) | [Second Opinions](https://llm-psychology.vercel.app/papers/second-opinions/): the same disputes on six open-weight models, with and without thinking | `one_idea.py` |
 
 Each folder has its own README that says what every script does.
 
